@@ -1,0 +1,17 @@
+body {
+    background-color: goldenrod;
+}
+.calc {
+    text-align: center;
+    
+}
+input[type="button"]
+{
+    background-color: aqua;
+    height: 50;
+    width: 50;
+    
+}
+input:hover {
+    background-color: gold;
+}
